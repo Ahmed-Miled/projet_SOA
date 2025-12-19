@@ -1,0 +1,30 @@
+# Eclipse IDE files
+.classpath
+.project
+.settings/
+
+# Build directories (Eclipse & Maven)
+target/
+build/
+
+# Compiled Java files
+*.class
+
+# Package files (WAR will be built from source)
+*.war
+*.jar
+*.ear
+
+# Log files
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Maven
+dependency-reduced-pom.xml
+
+# IDE - IntelliJ (au cas où)
+.idea/
+*.iml

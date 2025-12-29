@@ -2,6 +2,10 @@
 
 Application complète de gestion des personnes développée avec une architecture orientée services (SOA), composée d'un backend REST en Java EE et d'un frontend moderne en React avec Bootstrap.
 
+> **👥 Projet réalisé en collaboration avec [Rana Boujday](https://github.com/Ranabjd)**
+
+> **🎥 [Vidéo démonstrative du projet](https://drive.google.com/file/d/1hKa3KhuTG360QdSIYA2evtQ44vi-QiXL/view?usp=sharing)**
+
 ---
 
 ## 📋 Description du Projet
@@ -212,7 +216,7 @@ http://localhost:3000
 
 ---
 
-##Utilisation de l'Application
+## 💡 Utilisation de l'Application
 
 ### Interface Utilisateur
 
@@ -251,7 +255,7 @@ Une fois les deux serveurs démarrés (backend sur port 8080 et frontend sur por
 
 ---
 
-##  API REST - Endpoints Disponibles
+## 🔌 API REST - Endpoints Disponibles
 
 ### Base URL
 ```
@@ -295,5 +299,14 @@ http://localhost:8080/serveur/api
 - ✅ Gestion des erreurs
 - ✅ Documentation technique
 
+---
+
+## 📺 Démonstration
+
+Pour voir une démonstration complète de l'application en action, consultez notre [vidéo démonstrative](https://drive.google.com/file/d/1hKa3KhuTG360QdSIYA2evtQ44vi-QiXL/view?usp=sharing).
 
 ---
+
+## 📝 Licence
+
+Ce projet a été réalisé dans un cadre académique.
